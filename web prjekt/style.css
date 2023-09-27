@@ -77,7 +77,13 @@ h5,
 h6 {
   font-family: "Space Mono", monospace;
 }
-
+p {
+  font-size: 18px;
+  margin: 50px 0;
+  line-height: 1.68;
+  letter-spacing: 0.2px;
+  word-spacing: 0.2px;
+}
 footer {
   background-color: #000000;
   color: #ffffff;
